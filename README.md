@@ -30,7 +30,7 @@ PaceBot is an automated crypto trading bot for Binance that operates with a fini
 - **`ActivePositionState`** — Manages live orders: continuously monitors the market price against configured stop-loss (SL) and take-profit (TP) levels; when any condition is triggered, executes the predefined actions and closes the position.
 
 <div align="center">
-  <img src="assets/state-hierarchy-diagram.png" alt="State Hierarchy Diagram" width="800"/>
+  <img src="assets/state-hierarchy-diagram.png" alt="State Hierarchy Diagram" width="600"/>
 </div>
 
 ### State transitions
