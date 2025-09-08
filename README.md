@@ -4,8 +4,8 @@
 
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/)
 [![Coverage 98.10%](https://img.shields.io/badge/coverage-98.10%25-brightgreen.svg)](#)
-[![CI](https://github.com/yy-trading-bots/rem-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/yy-trading-bots/rem-bot/actions/workflows/ci.yml)
-[![license](https://img.shields.io/github/license/yy-trading-bots/rem-bot)](https://github.com/yy-trading-bots/rem-bot/blob/master/LICENSE)
+[![CI](https://github.com/yy-trading-bots/pace-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/yy-trading-bots/pace-bot/actions/workflows/ci.yml)
+[![license](https://img.shields.io/github/license/yy-trading-bots/pace-bot)](https://github.com/yy-trading-bots/pace-bot/blob/master/LICENSE)
 
 # PaceBot
 
