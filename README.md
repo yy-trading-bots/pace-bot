@@ -9,7 +9,7 @@
 
 # PaceBot
 
-> An automated crypto trading bot for Binance that uses a finite state machine (FSM) model to analyze past positions and predict the next move.
+> An automated cryptocurrency trading bot for Binance that uses a finite state machine (FSM) model to analyze past positions and predict the next move.
 
 ---
 
